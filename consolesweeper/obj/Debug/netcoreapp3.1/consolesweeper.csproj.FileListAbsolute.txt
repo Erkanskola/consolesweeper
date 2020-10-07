@@ -1,0 +1,13 @@
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Consolesweeper\consolesweeper\obj\Debug\netcoreapp3.1\consolesweeper.csprojAssemblyReference.cache
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Consolesweeper\consolesweeper\obj\Debug\netcoreapp3.1\consolesweeper.AssemblyInfoInputs.cache
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Consolesweeper\consolesweeper\obj\Debug\netcoreapp3.1\consolesweeper.AssemblyInfo.cs
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Consolesweeper\consolesweeper\obj\Debug\netcoreapp3.1\consolesweeper.csproj.CoreCompileInputs.cache
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Consolesweeper\consolesweeper\bin\Debug\netcoreapp3.1\consolesweeper.exe
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Consolesweeper\consolesweeper\bin\Debug\netcoreapp3.1\consolesweeper.deps.json
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Consolesweeper\consolesweeper\bin\Debug\netcoreapp3.1\consolesweeper.runtimeconfig.json
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Consolesweeper\consolesweeper\bin\Debug\netcoreapp3.1\consolesweeper.runtimeconfig.dev.json
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Consolesweeper\consolesweeper\bin\Debug\netcoreapp3.1\consolesweeper.dll
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Consolesweeper\consolesweeper\bin\Debug\netcoreapp3.1\consolesweeper.pdb
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Consolesweeper\consolesweeper\obj\Debug\netcoreapp3.1\consolesweeper.dll
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Consolesweeper\consolesweeper\obj\Debug\netcoreapp3.1\consolesweeper.pdb
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Consolesweeper\consolesweeper\obj\Debug\netcoreapp3.1\consolesweeper.genruntimeconfig.cache
