@@ -4,10 +4,12 @@ namespace consolesweeper
 {
     public class SweeperGrid
     {
+
+        //Tvådimensionell array som lagrar rutnätets data.
         int[,] grid = new int[10, 10];
         
 
-
+        //Sweepergrid är en konstruktor som skapar ett rutnät.
         public SweeperGrid()
         {
             for (int y = 0; y < 10; y++)
@@ -19,7 +21,7 @@ namespace consolesweeper
                 }
            }
 
-
+            // En slumpgenerator skapar minor
            Random mine = new Random();
 
             for (int i = 0; i < 10; i++)
@@ -43,6 +45,7 @@ namespace consolesweeper
 
         }
 
+        // Metoden ser till att sweepergrid inte överstiger 10x10 i storlek.
         public bool  CheckPosition(int x, int y)
         {
             if (grid[x - 1, y - 1] > 10 || grid[x - 1, y - 1 ] < 1) 
@@ -55,11 +58,12 @@ namespace consolesweeper
                 return true;
             }
 
-            
+
 
             
         }
 
+        //Denna metod skriver ut hela sweepergriden och ersätter nior med "█" medan 10or blir "*".
         public void Draw()
         {
 

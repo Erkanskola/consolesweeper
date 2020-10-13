@@ -9,9 +9,12 @@ namespace consolesweeper
 
             SweeperGrid sweeperGrid = new SweeperGrid();
 
+            //Här kallas jag mina metoder ur klassen "SweeperGrid.cs"
             sweeperGrid.Draw();
             sweeperGrid.CheckPosition(10,10);
 
+
+            //Enkelt gränssnitt för att användaren ska kunna skriva in koordinater.
             int xGuess = 0;
             bool success = false;
             while (!success)
@@ -38,6 +41,7 @@ namespace consolesweeper
                 }
             }
 
+            //Om användaren skrivit in koordinater för en mina skrivs "PANGBOMHEJDÅ", skrivs säkra koordinater in skrivs istället "bra jobbat lol"
             bool isAMine = sweeperGrid.CheckPosition(xGuess, yGuess);
 
             if (isAMine)
