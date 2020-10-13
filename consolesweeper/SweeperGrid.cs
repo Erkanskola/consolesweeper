@@ -54,6 +54,10 @@ namespace consolesweeper
             {
                 return true;
             }
+
+            
+
+            
         }
 
         public void Draw()
@@ -63,7 +67,17 @@ namespace consolesweeper
             {
                 for (int x = 0; x < grid.GetLength(0); x++)
                 {
-                    Console.Write($"{grid[x,y]} ");
+                    //Console.Write($"{grid[x,y]} ");
+
+                    if (grid[x,y] == 10)
+                    {
+                        Console.Write("*");
+                    }
+
+                    else if(grid[x,y] == 9)
+                    {
+                        Console.Write("█");
+                    }
 
                 }
 
