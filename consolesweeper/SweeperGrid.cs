@@ -48,7 +48,7 @@ namespace consolesweeper
         // Metoden ser till att sweepergrid inte överstiger 10x10 i storlek.
         public bool  CheckPosition(int x, int y)
         {
-            if (grid[x - 1, y - 1] > 10 || grid[x - 1, y - 1 ] < 1) 
+            if (grid[x - 1, y - 1 ] == 9) 
             {
                 return false;
             }
